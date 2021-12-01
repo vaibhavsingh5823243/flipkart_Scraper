@@ -1,0 +1,169 @@
+,Names,Prices,Ratings
+0,"APPLE iPhone 12 (Blue, 128 GB)",82900,4.6
+1,"APPLE iPhone 12 (Blue, 64 GB)",77900,4.6
+2,"APPLE iPhone 12 (White, 128 GB)",82900,4.6
+3,"APPLE iPhone 12 (Black, 128 GB)",82900,4.6
+4,"APPLE iPhone 12 (Purple, 64 GB)",79900,4.6
+5,"APPLE iPhone 12 (White, 64 GB)",77900,4.6
+6,"APPLE iPhone 12 (Green, 128 GB)",82900,4.6
+7,"APPLE iPhone 12 (Red, 128 GB)",82900,4.6
+8,"APPLE iPhone 12 (Black, 64 GB)",77900,4.6
+9,"APPLE iPhone 12 (Green, 64 GB)",77900,4.6
+10,"APPLE iPhone 12 (White, 256 GB)",92900,4.6
+11,"APPLE iPhone 12 (Black, 256 GB)",92900,4.6
+12,"APPLE iPhone 12 (Red, 256 GB)",92900,4.6
+13,"APPLE iPhone 12 (Blue, 256 GB)",92900,4.6
+14,"APPLE iPhone 12 (Green, 256 GB)",92900,4.6
+15,"APPLE iPhone 12 (Red, 64 GB)",77900,4.6
+16,"APPLE iPhone 12 Mini (Black, 128 GB",72900,4.5
+17,"APPLE iPhone 12 Mini (White, 128 GB",72900,4.5
+18,"APPLE iPhone 12 Mini (Red, 128 GB)",72900,4.5
+19,"APPLE iPhone 12 Mini (Black, 64 GB)",67900,4.5
+20,"APPLE iPhone 12 Mini (Red, 256 GB)",82900,4.5
+21,"APPLE iPhone 12 Mini (Purple, 64 GB",69900,4.5
+22,"APPLE iPhone 12 Mini (White, 256 GB",82900,4.5
+23,"APPLE iPhone 12 Pro (Pacific Blue, ",115900,4.6
+24,"APPLE iPhone 12 Pro (Gold, 128 GB)",115900,4.6
+25,"APPLE iPhone 12 Mini (Purple, 128 G",74900,4.5
+26,"APPLE iPhone 12 Pro (Pacific Blue, ",125900,4.6
+27,"APPLE iPhone 12 Pro (Graphite, 128 ",115900,4.6
+28,"APPLE iPhone 12 Mini (Purple, 256 G",84900,4.5
+29,APPLE iPhone 12 Pro Max (Pacific Bl,125900,4.6
+30,"APPLE iPhone 12 Pro (Silver, 512 GB",145900,4.6
+31,APPLE iPhone 12 Pro Max (Pacific Bl,155900,4.6
+32,"APPLE iPhone 12 Pro (Silver, 128 GB",115900,4.6
+33,"APPLE iPhone 12 Pro (Silver, 256 GB",125900,4.6
+34,"APPLE iPhone 12 Pro (Graphite, 256 ",125900,4.6
+35,"APPLE iPhone 12 Pro (Gold, 256 GB)",125900,4.6
+36,"APPLE iPhone 12 Pro Max (Gold, 256 ",135900,4.6
+37,"APPLE iPhone 12 Pro Max (Gold, 128 ",125900,4.6
+38,APPLE iPhone 12 Pro Max (Pacific Bl,135900,4.6
+39,"APPLE iPhone 12 Pro Max (Silver, 12",125900,4.6
+40,"APPLE iPhone 12 Pro (Pacific Blue, ",145900,4.6
+41,"APPLE iPhone 12 (Purple, 256 GB)",94900,4.6
+42,"APPLE iPhone 12 (Purple, 128 GB)",84900,4.6
+43,"APPLE iPhone 12 Mini (Red, 64 GB)",67900,4.5
+44,"APPLE iPhone 12 Mini (Blue, 256 GB)",82900,4.5
+45,"APPLE iPhone 12 Mini (Blue, 128 GB)",72900,4.5
+46,"APPLE iPhone 12 Mini (Green, 256 GB",82900,4.5
+47,"APPLE iPhone 12 Mini (Black, 256 GB",82900,4.5
+48,"APPLE iPhone 12 Mini (Blue, 64 GB)",67900,4.5
+49,"APPLE iPhone 12 Mini (Green, 64 GB)",67900,4.5
+50,"APPLE iPhone 12 Mini (White, 64 GB)",67900,4.5
+51,"APPLE iPhone 12 Pro Max (Graphite, ",125900,4.6
+52,"APPLE iPhone 12 Pro Max (Gold, 512 ",155900,4.6
+53,"APPLE iPhone 12 Mini (Green, 128 GB",72900,4.5
+54,"APPLE iPhone 12 Pro Max (Graphite, ",155900,4.6
+55,"APPLE iPhone 12 Pro Max (Silver, 51",155900,4.6
+56,"APPLE iPhone 12 Pro (Graphite, 512 ",145900,4.6
+57,"APPLE iPhone 12 Pro Max (Graphite, ",135900,4.6
+58,"APPLE iPhone 12 Pro (Gold, 512 GB)",145900,4.6
+59,"APPLE iPhone 12 Pro Max (Silver, 25",135900,4.6
+60,"APPLE iPhone SE (Black, 128 GB)",34999,4.5
+61,"APPLE iPhone 11 (Black, 64 GB)",51999,4.6
+62,"APPLE iPhone SE (White, 128 GB)",34999,4.5
+63,"Apple iPhone XR ((PRODUCT)RED, 128 ",46999,4.6
+64,"Apple iPhone XR ((PRODUCT)RED, 64 G",41999,4.6
+65,"APPLE iPhone SE (Red, 128 GB)",34999,4.5
+66,"APPLE iPhone 11 (White, 64 GB)",51999,4.6
+67,"APPLE iPhone XR (Black, 128 GB)",46999,4.6
+68,"APPLE iPhone 11 (Green, 128 GB)",56999,4.6
+69,"APPLE iPhone 11 (Purple, 128 GB)",56999,4.6
+70,"Apple iPhone XR (Yellow, 128 GB) (I",46999,4.6
+71,"APPLE iPhone 11 (White, 128 GB)",56999,4.6
+72,"APPLE iPhone XR (White, 64 GB)",41999,4.6
+73,"APPLE iPhone 11 (Black, 128 GB)",56999,4.6
+74,"APPLE iPhone SE (White, 64 GB)",32999,4.5
+75,"APPLE iPhone XR (Black, 64 GB)",41999,4.6
+76,"APPLE iPhone XR (Blue, 128 GB)",46999,4.6
+77,"APPLE iPhone XR ((PRODUCT)RED, 64 G",41999,4.6
+78,"APPLE iPhone 11 (Purple, 64 GB)",51999,4.6
+79,"APPLE iPhone 11 (Red, 64 GB)",51999,4.6
+80,"APPLE iPhone 11 (Green, 64 GB)",51999,4.6
+81,"APPLE iPhone XR (White, 128 GB)",46999,4.6
+82,"Apple iPhone SE (Black, 256 GB) (In",47999,4.5
+83,"APPLE iPhone XR (Yellow, 128 GB)",46999,4.6
+84,"Apple iPhone SE (White, 256 GB) (In",47999,4.5
+85,"APPLE iPhone XR ((PRODUCT)RED, 128 ",46999,4.6
+86,"APPLE iPhone 11 (Yellow, 128 GB)",56999,4.6
+87,APPLE iPhone 11 Pro (Midnight Green,74999,4.6
+88,"APPLE iPhone 11 (Red, 128 GB)",56999,4.6
+89,"APPLE iPhone 11 (Yellow, 64 GB)",51999,4.6
+90,"APPLE iPhone 11 (Purple, 256 GB)",68999,4.6
+91,"APPLE iPhone 11 (Green, 256 GB)",68999,4.6
+92,"APPLE iPhone 11 (White, 256 GB)",68999,4.6
+93,"APPLE iPhone 11 Pro Max (Gold, 64 G",117100,4.7
+94,"APPLE iPhone 11 (Black, 256 GB)",68999,4.6
+95,"APPLE iPhone 11 (Red, 256 GB)",68999,4.6
+96,"APPLE iPhone 11 (Yellow, 256 GB)",68999,4.6
+97,APPLE iPhone 11 Pro Max (Space Grey,117100,4.7
+98,APPLE iPhone 11 Pro (Midnight Green,140300,4.6
+99,"APPLE iPhone 8 (Silver, 256 GB)",77000,4.5
+100,"APPLE iPhone XS (Space Grey, 512 GB",134900,4.7
+101,"APPLE iPhone XS (Gold, 512 GB)",134900,4.7
+102,"APPLE iPhone 7 Plus (Black, 32 GB)",36999,4.5
+103,"APPLE iPhone 8 (Gold, 256 GB)",77000,4.5
+104,"APPLE iPhone 8 Plus (Gold, 64 GB)",49900,4.6
+105,"APPLE iPhone 8 Plus (Space Grey, 64",49900,4.6
+106,"APPLE iPhone 8 Plus (Space Grey, 25",84900,4.6
+107,"APPLE iPhone 8 Plus (Silver, 256 GB",84900,4.6
+108,"APPLE iPhone 8 (Space Grey, 256 GB)",77000,4.5
+109,"APPLE iPhone 8 Plus (Silver, 64 GB)",49900,4.6
+110,APPLE iPhone 11 Pro Max (Midnight G,117100,4.7
+111,"Apple iPhone XR (Coral, 128 GB) (In",46999,4.6
+112,"APPLE iPhone SE (Black, 64 GB)",32999,4.5
+113,"Apple iPhone SE (White, 64 GB) (Inc",32999,4.5
+114,"APPLE iPhone SE (Red, 64 GB)",32999,4.5
+115,"Apple iPhone XR (Blue, 64 GB) (Incl",41999,4.6
+116,"Apple iPhone XR (Coral, 64 GB) (Inc",41999,4.6
+117,"APPLE iPhone XR (Yellow, 64 GB)",41999,4.6
+118,"Apple iPhone 11 (White, 128 GB) (In",56999,4.6
+119,"Apple iPhone SE (Red, 128 GB) (Incl",34999,4.5
+120,"Apple iPhone XR (White, 64 GB) (Inc",41999,4.6
+121,"Apple iPhone XR (Black, 64 GB) (Inc",41999,4.6
+122,"Apple iPhone 11 (White, 64 GB) (Inc",51999,4.6
+123,"APPLE iPhone XR (Blue, 64 GB)",41999,4.6
+124,"Apple iPhone SE (Red, 256 GB) (Incl",47999,4.5
+125,"Apple iPhone SE (White, 128 GB) (In",34999,4.5
+126,"Apple iPhone 11 (Black, 64 GB) (Inc",51999,4.6
+127,"APPLE iPhone 11 Pro Max (Silver, 64",117100,4.7
+128,"Apple iPhone 11 (Red, 64 GB) (Inclu",51999,4.6
+129,"APPLE iPhone 12 Pro Max (Gold, 512 ",155900,4.6
+130,"Apple iPhone SE (Red, 64 GB) (Inclu",32999,4.5
+131,"Apple iPhone SE (Black, 64 GB) (Inc",32999,4.5
+132,"Apple iPhone 11 (Yellow, 128 GB) (I",56999,4.6
+133,"APPLE iPhone SE (Black, 256 GB)",47999,4.5
+134,"Apple iPhone 11 (Purple, 128 GB) (I",56999,4.6
+135,APPLE iPhone 12 Pro Max (Pacific Bl,155900,4.6
+136,"Apple iPhone XR (Blue, 256 GB) (Inc",91900,4.6
+137,"Apple iPhone 11 (Yellow, 256 GB) (I",68999,4.6
+138,"APPLE iPhone 8 (PRODUCT)RED (Red, 2",81500,4.7
+139,"APPLE iPhone 11 Pro (Gold, 64 GB)",74999,4.6
+140,"Apple iPhone 11 (Red, 256 GB) (Incl",68999,4.6
+141,"Apple iPhone XR (Coral, 256 GB) (In",91900,4.6
+142,"Apple iPhone 11 (Yellow, 64 GB) (In",51999,4.6
+143,"APPLE iPhone 11 Pro (Space Grey, 51",140300,4.6
+144,"APPLE iPhone SE (White, 256 GB)",47999,4.5
+145,"Apple iPhone 11 (Purple, 64 GB) (In",51999,4.6
+146,"Apple iPhone XR ((PRODUCT)RED, 256 ",91900,4.6
+147,"Apple iPhone SE (Black, 128 GB) (In",34999,4.5
+148,"Apple iPhone XR (White, 256 GB) (In",91900,4.6
+149,"Apple iPhone 11 (Purple, 256 GB) (I",68999,4.6
+150,"APPLE iPhone XR (Coral, 64 GB)",41999,4.6
+151,"APPLE iPhone XS (Space Grey, 256 GB",76999,4.7
+152,APPLE iPhone 11 Pro (Midnight Green,121300,4.6
+153,"Apple iPhone 11 (Green, 128 GB) (In",56999,4.6
+154,"Apple iPhone 11 (Red, 128 GB) (Incl",56999,4.6
+155,"Apple iPhone 11 (Black, 128 GB) (In",56999,4.6
+156,"Apple iPhone 11 (Black, 256 GB) (In",68999,4.6
+157,"APPLE iPhone 11 Pro (Space Grey, 64",74999,4.6
+158,"APPLE iPhone 11 Pro (Silver, 64 GB)",74999,4.6
+159,"APPLE iPhone 11 Pro (Gold, 512 GB)",140300,4.6
+160,"Apple iPhone 11 (White, 256 GB) (In",68999,4.6
+161,"APPLE iPhone 11 Pro (Silver, 512 GB",140300,4.6
+162,"APPLE iPhone 11 Pro Max (Silver, 25",131900,4.7
+163,"APPLE iPhone 8 (PRODUCT)RED (Red, 6",38999,4.7
+164,APPLE iPhone 11 Pro Max (Midnight G,131900,4.7
+165,"APPLE iPhone 7 Plus (Silver, 32 GB)",36999,4.5
+166,APPLE iPhone 8 Plus (PRODUCT)RED (R,49900,4.6
+167,APPLE iPhone 11 Pro Max (Space Grey,131900,4.7

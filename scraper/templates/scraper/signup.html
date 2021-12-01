@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SignUp</title>
+<style>
+    body{background-color:black;
+        }
+    #save{color:black;
+          background-color:green;
+          margin-left:110px;
+          margin-top:-8px;
+
+         }
+    .form{background-color:lightblue;
+          margin-left:450px;
+          margin-top:150px;
+          height:250px;
+          width:300px;
+          border-radius:10px;
+         }
+     .data{margin-left:10px;
+           margin-top:20px;
+           padding:10px;
+
+           }
+     h3{color:green;
+        font-style:city;
+        text-align:center;
+        }
+</style>
+</head>
+<body>
+<div class="form">
+       <form method="post" action="">
+           {% csrf_token %}
+           <h3>SignUp</h3>
+           {% if messages %}
+                {% for message in messages %}
+                     <small {% if message.tags %} class="{{message.tags}}" {% endif %} style="margin-left:10px;color:green;">{{message}}</small><br>
+                {% endfor %}
+           {% endif %}
+            <div class="data">
+           {% if form.non_field_errors %}
+               {% for error in form.non_field_errors %}
+                   <small>{{error}}</small><br>
+               {% endfor %}
+           {% endif %}
+
+           {% for fm in form %}
+             {{fm.label_tag}} {{fm}} {{fm.errors|striptags}}<br><br>
+           {% endfor %}
+            </div>
+           <input type="submit" value="SignUp" id="save">
+           </form>
+
+      <a href="{% url 'login' %}"><button style="color:black;background-color:blue;margin-left:110px;margin-top:-12px;">SignIN</button></a>
+
+    </div>
+</body>
+</html>

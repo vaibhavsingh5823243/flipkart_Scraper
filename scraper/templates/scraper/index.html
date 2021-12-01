@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Search</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"  crossorigin="anonymous">
+	<style type="text/css">
+		body {background:  linear-gradient(to right, rgba(255,0,0,0.5), rgba(0,255,0,0.5));}
+		form{
+			background:  linear-gradient(to right, rgba(0,255,0,0.1), rgba(255,0,0,0.1));
+			padding: 20px;
+			margin-top: 150px;
+			border-radius: 30px;
+		}
+		label{
+			font-family: American Typewriter, serif ;
+		}
+		.form-control,.form-select{
+			color: #fff;
+			background-color: rgba(0, 0, 0, 0.2);
+			border-radius: 15px;
+		}
+		.btn{
+			border-radius: 15px;
+			margin-left:200px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="row form_style">
+			<div class="offset-md-3 col-md-6 ">
+				<form method="post" action="/scraper/validate/">
+					{% csrf_token %}
+				<div class="row g-3">
+					<div class="col-sm-12">
+					    <label for="inputState">Search</label>
+						<input type="text" id="inputState" class="form-control" aria-label="City" value="" name="search_item">
+					</div>
+					<div class="form-group col-sm-6">
+					    <label for="options">CATEGORIES</label>
+					    <select id="options" class="form-select" name="options">
+					   	    <option selected value="name_rating_price">PRODUCT DETAILS</option>
+							<option value="price">PRICES</option>
+					   	    <option value="rating">RATINGS</option>
+					   	    <option value="review">REVIEWS</option>
+					   	    <!--option value="discount">DISCOUNT</option-->
+					    </select>
+					</div>
+					<div class="col-sm-12">
+					    <label for="number">Number Of Item</label>
+					    <input type="range" class="form-range" min="0" max="50000" step="100" id="number" name="number" value="100">
+					</div>
+					<div class="col-sm-12">
+						<button type="submit" class="btn btn-info">Search</button>
+					</div>
+				</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
